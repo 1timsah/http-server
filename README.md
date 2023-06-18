@@ -4,4 +4,4 @@
 
 2. `Istifadesi` **python3 webhttp.py**
 
-3. #1010 portunda işləyir, siz portu dəyişə bilərsiniz!
+3. # 1010 portunda işləyir, siz portu dəyişə bilərsiniz!
